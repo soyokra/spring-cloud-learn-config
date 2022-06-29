@@ -1,2 +1,2 @@
 app:
-  tags: product, dev, 123
+  tags: product, dev, version=2
