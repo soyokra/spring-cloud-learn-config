@@ -1,2 +1,2 @@
 app:
-  tags: order, dev
+  tags: order, dev, version=2
