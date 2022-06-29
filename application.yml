@@ -1,2 +1,2 @@
 app:
-  tag: order, prod
+  tags: order, prod
